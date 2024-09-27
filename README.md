@@ -27,4 +27,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
