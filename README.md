@@ -6,8 +6,8 @@ Student at Vellore Institute of Technology
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning React js
-- 👯 I’m looking to collaborate on exciting web development projects and open-source initiatives!
-- 🤔 I’m looking for help with my career journey, and I’m eagerly posting tech videos on YouTube
+- 👯 I’m looking to collaborate on exciting web development projects!
+- 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me:
 
