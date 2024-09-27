@@ -8,7 +8,7 @@ Student at Vellore Institute of Technology
 - 🔭 I’m working on a personal portfolio website to showcase my projects.
 - 📫 You can reach me at:[vikram.rofficial@gmail.com](mailto:vikram.rofficial@gmail.com)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.png)](https://www.linkedin.com/in/vikramr16)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/4/4e/LinkedIn_icon.svg)](https://www.linkedin.com/in/vikramr16)
 <!--
 **Vikramr16/Vikramr16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
