@@ -3,12 +3,12 @@
 Student at Vellore Institute of Technology
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image">
+
 - 🌱 I’m currently learning more about JavaScript frameworks like React.
 - 💼 I have experience in HTML, CSS, and JavaScript.
 - 🔭 I’m working on a personal portfolio website to showcase my projects.
 - 📫 You can reach me at:[vikram.rofficial@gmail.com](mailto:vikram.rofficial@gmail.com)
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/4/4e/LinkedIn_icon.svg)](https://www.linkedin.com/in/vikramr16)
 <!--
 **Vikramr16/Vikramr16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
