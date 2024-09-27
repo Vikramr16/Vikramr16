@@ -15,3 +15,5 @@ Student at Vellore Institute of Technology
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCr3kGM7DIo8cCUt9bFrODyw)
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
