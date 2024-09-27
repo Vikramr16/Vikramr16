@@ -26,9 +26,13 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 
 
+
 ![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
 
 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
+
+
 
 [![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
