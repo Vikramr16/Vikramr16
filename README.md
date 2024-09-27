@@ -26,3 +26,5 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=ffffff&line=89ea75&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
