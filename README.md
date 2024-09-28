@@ -45,11 +45,10 @@ https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vikramr16" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikramr16" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="vikramr16" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/techbenchcorner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbenchcorner" height="40" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="techbenchcorner" height="40" width="40" />
   </a>
 </p>
-
