@@ -1,4 +1,6 @@
-![GIF](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
+<p align="center">
+  <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" alt="GIF">
+</p>
 
 ## Hi there 👋 It's me Vikram
 
