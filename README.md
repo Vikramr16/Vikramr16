@@ -46,5 +46,4 @@
 
 ### Connect with me:
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" href="https://linkedin.com/in/vikramr16"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play" href="https://www.youtube.com/@TechBenchCorner"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" href="https://linkedin.com/in/vikramr16"/> <img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play" href="https://www.youtube.com/@TechBenchCorner"/>
