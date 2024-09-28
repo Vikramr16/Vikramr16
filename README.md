@@ -48,7 +48,10 @@ https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shr
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikramr16" height="30" width="40" />
   </a>
   
+  &nbsp;&nbsp;&nbsp; 
+  
   <a href="https://www.youtube.com/techbenchcorner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbenchcorner" height="40" width="40" style="padding-left: 10px; padding-top: 5px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techbenchcorner" height="40" width="40" />
   </a>
 </p>
+
