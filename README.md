@@ -4,7 +4,7 @@
 
 **Student at Vellore Institute of Technology**
 
-<img align="right" width="370" height="290" src="https://images.app.goo.gl/3v9GAKJSwUS1aDaR9" alt="developer">
+<img align="right" width="370" height="290" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer">
 
 - 🔭 I’m currently working on `Food delivery website`
 - 🌱 I’m currently learning `React js`
