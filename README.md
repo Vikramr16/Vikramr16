@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image" style="width: 100%; max-height: 500px; object-fit: contain;">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image" style="width: 100%; height: auto; max-height: 250px;">
 </p>
-
 
 
 ## Hi there 👋 It's me Vikram
