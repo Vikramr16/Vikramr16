@@ -2,13 +2,9 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF" width="70%" height="400">
 </p>
 
-<p align="center">
-  <strong>Hi there 👋 It's me Vikram</strong>
-</p>
 
-<p align="center">
-  <strong>Student at Vellore Institute of Technology</strong>
-</p>
+<h1 align="center">Hi there 👋 It's me Vikram</h1>
+<h3 align="center">Student at Vellore Institute of Technology</h3>
 
 
 <p align="left">
