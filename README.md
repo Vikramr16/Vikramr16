@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
-<h3 align="center">Student at Vellore Institute of Technology</h3>
+<h4 align="center">Student at Vellore Institute of Technology</h4>
 
 
 <p align="left">
