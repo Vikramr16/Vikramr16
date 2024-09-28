@@ -25,6 +25,19 @@
 - ⚡ Fun fact: I know Japanese
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCr3kGM7DIo8cCUt9bFrODyw)
 
+https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=2147483647&v=beta&t=77qfS1_SDRvCTpYp_5C4pyVrBj4Qwo-mvU7xjZ5gVtY
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vikramr16" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.youtube.com/c/techbenchcorner" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
+  </a>
+</p>
 
 ### I code in
 
