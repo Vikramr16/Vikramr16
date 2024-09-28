@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image"  height="500"  width="100%">
-</p>
-
+![Developer](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
 
 ## Hi there 👋 It's me Vikram
 
