@@ -1,4 +1,4 @@
-![GIF](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![GIF](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
 
 ## Hi there 👋 It's me Vikram
 
