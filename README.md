@@ -1,4 +1,4 @@
-![Developer](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
+![GIF](https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif)
 
 ## Hi there 👋 It's me Vikram
 
