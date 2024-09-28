@@ -35,13 +35,9 @@ https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shr
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikramr16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Your GitHub Top Languages" />
-</p>
+![Your GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vikramr16&show_icons=true&locale=en&layout=compact&theme=tokyonight) ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vikramr16&theme=tokyonight)
 
 ![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikramr16&&theme=tokyonight" alt="rishavchanda" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
 
