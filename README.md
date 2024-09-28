@@ -2,9 +2,13 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF" width="70%" height="400">
 </p>
 
-## Hi there 👋 It's me Vikram
+<p align="center">## Hi there 👋 It's me Vikram</p>
 
-**Student at Vellore Institute of Technology**
+<p align="center">**Student at Vellore Institute of Technology**</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <img align="right" width="370" height="290" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer">
 
