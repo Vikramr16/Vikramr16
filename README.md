@@ -1,8 +1,10 @@
+<img  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image">
+
 ## Hi there 👋 It's me Vikram
 
 **Student at Vellore Institute of Technology**
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Description of Image">
+<img align="right" width="370" height="290" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" alt="developer">
 
 - 🔭 I’m currently working on `Food delivery website`
 - 🌱 I’m currently learning `React js`
