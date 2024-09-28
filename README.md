@@ -27,18 +27,6 @@
 
 https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=2147483647&v=beta&t=77qfS1_SDRvCTpYp_5C4pyVrBj4Qwo-mvU7xjZ5gVtY
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vikramr16" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.youtube.com/techbenchcorner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
-  </a>
-</p>
-
 ### I code in
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
@@ -53,3 +41,14 @@ https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shr
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
 
 [![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vikramr16" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.youtube.com/techbenchcorner" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="40" width="40" />
+  </a>
+</p>
