@@ -43,13 +43,14 @@
 
 [![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vikramr16" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="vikramr16" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vikramr16" height="30" width="40" />
   </a>
  
-  <a href="https://www.youtube.com/techbenchcorner" target="blank">
+  <a href="https://www.youtube.com/@TechBenchCorner" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="techbenchcorner" height="40" width="40" />
   </a>
 </p>
