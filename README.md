@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Coder height="50" GIF" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" />
+  <img alt="Coder" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="50" />
 </p>
 
 
