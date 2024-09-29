@@ -1,4 +1,4 @@
-![Your GIF](https://drive.google.com/file/d/12sxg98JrEwNxFRPMAafjDA-nodapuA0J/view?usp=drivesdk)
+![Description of the GIF](https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif)
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
 <h4 align="center">Student at Vellore Institute of Technology</h4>
