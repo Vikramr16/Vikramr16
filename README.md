@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
-<mark><h4 align="center">Student at Vellore Institute of Technology</h4></mark>
+<mark>Student at Vellore Institute of Technology</mark>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
