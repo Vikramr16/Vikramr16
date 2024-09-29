@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">&nbsp;&nbsp;
+<img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">&nbsp;
 
 - 🔭 I’m currently working on `Food delivery website`
 - 🌱 I’m currently learning `React js`
