@@ -1,4 +1,6 @@
-![Description of the GIF](https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif)
+<p align="center">
+  <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
+</p>
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
 <h4 align="center">Student at Vellore Institute of Technology</h4>
