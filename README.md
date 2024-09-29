@@ -1,5 +1,5 @@
-<p>
-<img alt="Coder GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="center">
+<img alt="Coder height="300" GIF" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
 
