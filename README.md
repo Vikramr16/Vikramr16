@@ -1,11 +1,11 @@
-<a href="https://rishavchanda.io">
-  <img alt="MasterHead" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="50" autoplay loop />
-</a>
-
+<p align="center">
+  <video width="500" controls>
+    <source src="https://cdnl.iconscout.com/lottie/premium/thumb/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-design-developer-website-designing-character-pack-miscellaneous-animations-9013679.mp4" type="video/mp4">
+  </video>
+</p>
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
 <h4 align="center">Student at Vellore Institute of Technology</h4>
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -35,7 +35,7 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vikramr16&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vikramr16&theme=dark)](https://git.io/streak-stats)
 
 ![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
 
