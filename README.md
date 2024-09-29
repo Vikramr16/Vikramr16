@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="Coder" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="250" width="80%" autoplay loop />
-</p>
+<a href="https://rishavchanda.io">
+  <img alt="MasterHead" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" height="50" autoplay loop />
+</a>
 
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
