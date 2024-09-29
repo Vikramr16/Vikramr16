@@ -1,4 +1,5 @@
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://cdnl.iconscout.com/lottie/premium/thumb/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-design-developer-website-designing-character-pack-miscellaneous-animations-9013679.gif)
+[Watch the video](https://cdnl.iconscout.com/lottie/premium/thumb/web-development-animation-download-in-lottie-json-gif-static-svg-file-formats--software-design-developer-website-designing-character-pack-miscellaneous-animations-9013679.mp4)
+
 
 <h1 align="center">Hi there 👋 It's me Vikram</h1>
 <h4 align="center">Student at Vellore Institute of Technology</h4>
