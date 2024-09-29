@@ -2,9 +2,9 @@
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
 </p>
 
-<h2 align="center">Hi there 👋 It's me Vikram/h2>
+<h2 align="center">Hi there 👋 It's me Vikram</h2>
 
-<h4 align="center"><mark>Student at Vellore Institute of Technology</mark></h4>
+<h4 align="center">Student at Vellore Institute of Technology</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
