@@ -1,3 +1,5 @@
+<a > <img align="center" src="https://github.com/yashrajmani/yashrajmani/blob/main/banner_fin.jpg"/></a>
+
 <p align="center">
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
 </p>
