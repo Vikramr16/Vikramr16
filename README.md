@@ -36,6 +36,8 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
 
+## 📈 Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vikramr16&theme=dark)](https://git.io/streak-stats)
 
 ![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
