@@ -49,3 +49,10 @@
 
 [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/vikramr16)
 [<img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>](https://www.youtube.com/@TechBenchCorner)
+
+<h3 align="center">
+------ Views ------ 
+ </h3>
+<p align="center">
+<img src="https://profile-counter.glitch.me/vikramr16/count.svg"></p>
+<p>
