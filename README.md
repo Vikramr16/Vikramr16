@@ -56,7 +56,7 @@
 
 ### 📈 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vikramr16&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vikramr16&theme=dark&hide_border=true)
 
 
 ![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)  
