@@ -33,7 +33,7 @@
 
 ### 📈 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vikramr16&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vikramr16&theme=dark)]
 
 ![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
 
