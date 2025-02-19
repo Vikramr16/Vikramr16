@@ -11,7 +11,7 @@
 
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on `Food delivery website`
+- 🔭 I’m currently working on my `Final year project`
 - 🌱 I’m currently learning `React js`
 - 👯 I’m looking to collaborate on `web development` projects!
 - 🤔 I’m looking for help with Placements in `FAANG`
