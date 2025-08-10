@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋 It's me Vikram</h2>
 
-<h4 align="center">Student at Vellore Institute of Technology</h4>
+<h4 align="center">Java Developer Intern at The Developers Arean</h4>
 <p align="center">
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
 </p>
@@ -11,9 +11,9 @@
 
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on my `Final year project`
-- 🌱 I’m currently learning `React js`
-- 👯 I’m looking to collaborate on `web development` projects!
+- 🔭 I’m currently working on my `Java Internship`
+- 🌱 I’m currently learning `DSA in Java`
+- 👯 I’m looking to collaborate on `software` projects!
 - 🤔 I’m looking for help with Placements in `FAANG`
 - 💬 Ask me about `Tech`
 - 📫 How to reach me:
