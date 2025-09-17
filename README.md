@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my `Java Internship`
 - 🌱 I’m currently learning `DSA in Java`
 - 👯 I’m looking to collaborate on `software` projects!
-- 🤔 I’m looking for help with Placements in `FAANG`
+- 🤔 I’m looking for help with Placements in `MAANG`
 - 💬 Ask me about `Tech`
 - 📫 How to reach me:
 
