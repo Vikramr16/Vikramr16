@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working on my **`Java Internship`**
 - 🌱 I’m currently learning **`DSA in Java`**
-- 👯 I’m looking to collaborate on **`software projects!`**
-- 🤔 I’m looking for help with Placements in **`MAANG`**
+- 👯 I’m looking to collaborate on **`software development projects`**
+- 🤔 Seeking guidance for **`MAANG placements`**
 - 💬 Ask me about **`Tech Trends`**
 - 📫 How to reach me:
 
@@ -31,6 +31,7 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
 
+---
 ### 📈 Stats
 
 
@@ -40,8 +41,16 @@
 
 [![Vikram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikramr16&bg_color=171617&color=faf9f9&line=00f000&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
 ### Connect with me:
 
 [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>](https://linkedin.com/in/vikramr16)
 [<img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>](https://www.youtube.com/@TechBenchCorner)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>](mailto:vikram.rofficial@gmail.com)
+
+
+### Quote of the Day
+> “Code never lies, comments sometimes do.” – Ron Jeffries
+
+<p align="center">⭐ From <a href="https://github.com/vikramr16">Vikram</a> | Keep coding, keep growing 🚀</p>
