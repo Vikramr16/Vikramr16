@@ -21,7 +21,9 @@
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramr16) [](https://www.linkedin.com/in/vikramr16)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.rofficial@gmail.com) [](mailto:vikram.rofficial@gmail.com)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese
-- 🎥 My YouTube Community: [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@TechBenchCorner)
+- ▶️ My YouTube Community:  
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCr3kGM7DIo8cCUt9bFrODyw?style=social)
+
 
 ### I code in
 
