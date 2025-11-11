@@ -11,7 +11,7 @@
 
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on my `Java Internship`
+- 🔭 I’m currently working on my **`Java Internship`**
 - 🌱 I’m currently learning `DSA in Java`
 - 👯 I’m looking to collaborate on `software` projects!
 - 🤔 I’m looking for help with Placements in `MAANG`
@@ -21,7 +21,7 @@
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramr16) [](https://www.linkedin.com/in/vikramr16)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.rofficial@gmail.com) [](mailto:vikram.rofficial@gmail.com)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCr3kGM7DIo8cCUt9bFrODyw)
+- 🎥 My YouTube Community: [![YouTube](https://img.icons8.com/color/48/youtube-play.png)](https://www.youtube.com/@TechBenchCorner)
 
 ### I code in
 
@@ -29,7 +29,7 @@
 
 ### IDE and Tools I Use
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
 
 ### 📈 Stats
 
