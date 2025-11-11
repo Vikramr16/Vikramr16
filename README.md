@@ -12,10 +12,10 @@
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
 - 🔭 I’m currently working on my **`Java Internship`**
-- 🌱 I’m currently learning `DSA in Java`
-- 👯 I’m looking to collaborate on `software` projects!
-- 🤔 I’m looking for help with Placements in `MAANG`
-- 💬 Ask me about `Tech`
+- 🌱 I’m currently learning **`DSA in Java`**
+- 👯 I’m looking to collaborate on **`software projects!`**
+- 🤔 I’m looking for help with Placements in **`MAANG`**
+- 💬 Ask me about **`Tech Trends`**
 - 📫 How to reach me:
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikramr16) [](https://www.linkedin.com/in/vikramr16)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.rofficial@gmail.com) [](mailto:vikram.rofficial@gmail.com)
