@@ -1,18 +1,14 @@
 <h2 align="center">Hi there 👋, It's me Vikram</h2>
 
-<h4 align="center">💻 Java Developer Intern at The Developers Arena | Tech Enthusiast | Problem Solver</h4>
+<h4 align="center">💻 Java Developer Intern at The Developers Arena</h4>
 
 <p align="center">
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="developer-gif" width="75%">
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
----
 
 ### 👨‍💻 About Me
 
