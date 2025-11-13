@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+Web+Developer+%7C+Java+Developer;" alt="Typing SVG" />
+</p>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
 - 🔭 I’m currently working on my **`Java Internship`**
@@ -33,6 +36,10 @@
 ### IDE and Tools I Use
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 ### 📈 Stats
