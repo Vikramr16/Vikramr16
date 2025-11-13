@@ -39,15 +39,7 @@
 
 ### Github trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16
-  &theme=gruvbox
-  &no-frame=true
-  &no-bg=true
-  &margin-w=10
-  &exclude=Stars,Issues,PullRequest,Followers" />
-</p>
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&title=Commits,Repositories,Experience" /></p>
 
 ---
 
