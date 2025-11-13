@@ -5,7 +5,7 @@
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
@@ -37,8 +37,10 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
 
+### Github trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&rank=-UNKNOWN" />
 </p>
 
 ---
