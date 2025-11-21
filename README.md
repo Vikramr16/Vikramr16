@@ -39,10 +39,11 @@
 ### Github trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramr16&show_icons=true&theme=gruvbox" width="900" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=vikramr16&theme=gruvbox&hide_border=true" width="900" />
+  <img 
+    src="https://raw.githubusercontent.com/metrics/metrics/main/.github/readme/achievements.svg"
+    width="900"/>
 </p>
+
 
 ---
 
