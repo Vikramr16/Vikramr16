@@ -39,10 +39,9 @@
 ### Github trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=3&title=Commits,Repositories,Experience" 
-    width="900" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikramr16&show_icons=true&theme=gruvbox" width="900" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=vikramr16&theme=gruvbox&hide_border=true" width="900" />
 </p>
 
 ---
