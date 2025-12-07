@@ -6,7 +6,7 @@
 </p>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on **`TCS`**
+- 🔭 Kickstarting my professional journey at **`TCS`**
 - 🌱 I’m currently learning **`DSA in Java`**
 - 👯 I’m looking to collaborate on **`Software Development Projects`**
 - 🤔 Seeking guidance for **`Career Development`**
