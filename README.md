@@ -6,7 +6,7 @@
 </p>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on my **`Java Internship`**
+- 🔭 I’m currently working on **`Java Internship`**
 - 🌱 I’m currently learning **`DSA in Java`**
 - 👯 I’m looking to collaborate on **`software development projects`**
 - 🤔 Seeking guidance for **`MAANG placements`**
@@ -32,7 +32,7 @@
 ### Github trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=onedark&row=1&column=6" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=onedark&row=1&column=3&title=Commit,Repositories,Experience" /> 
 </p>
 
 ---
