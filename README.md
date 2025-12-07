@@ -31,7 +31,7 @@
 
 ### Github trophies
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=onedark&row=1&column=3&title=Commit,Repositories,Experience" /> 
 </p>
 
@@ -39,8 +39,9 @@
 
 ### 📈 Stats
 
-
-![Vikram GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikramr16&theme=dark&show_icons=true&hide=issues,contribs)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikramr16&theme=dark&show_icons=true&hide=issues,contribs" /> 
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vikrampro?theme=dark&font=Raleway&ext=contest)
 
