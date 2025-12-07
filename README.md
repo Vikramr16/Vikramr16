@@ -6,11 +6,11 @@
 </p>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
-- 🔭 I’m currently working on **`Java Internship`**
+- 🔭 I’m currently working on **`TCS`**
 - 🌱 I’m currently learning **`DSA in Java`**
-- 👯 I’m looking to collaborate on **`software development projects`**
-- 🤔 Seeking guidance for **`MAANG placements`**
-- 💬 Ask me about **`Tech Trends`**
+- 👯 I’m looking to collaborate on **`Software Development Projects`**
+- 🤔 Seeking guidance for **`Career Development`**
+- 💬 Ask me about **`Tech stack`**
 - 📫 How to reach me:
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramr16) [](https://www.linkedin.com/in/vikramr16)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.rofficial@gmail.com) [](mailto:vikram.rofficial@gmail.com)
@@ -39,7 +39,7 @@
 
 ### 📈 Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vikramr16&theme=dark&show_icons=true&hide=issues,contribs" /> 
 </p>
 
