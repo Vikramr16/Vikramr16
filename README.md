@@ -5,10 +5,6 @@
   <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikramr16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+Web+Developer+%7C+Java+Developer;" alt="Typing SVG" />
 </p>
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
@@ -39,11 +35,8 @@
 ### Github trophies
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/metrics/metrics/main/.github/readme/achievements.svg"
-    width="900"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramr16&theme=onedark&row=1&column=6" /> 
 </p>
-
 
 ---
 
