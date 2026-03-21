@@ -2,7 +2,9 @@
 
 <h4 align="center">Full Stack Engineer at <mark>Tata Consultancy Services</mark></h4>
 
-<img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
+<p align="center">
+  <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
+</p>
 
 - 🔭 Kickstarting my professional journey at **`TCS`**
 - 🌱 I’m currently learning **`DSA in Java`**
