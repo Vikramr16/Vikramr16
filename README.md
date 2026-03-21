@@ -3,8 +3,7 @@
 <h4 align="center">Full Stack Engineer at <mark>Tata Consultancy Services</mark></h4>
 
 - 🔭 Kickstarting my professional journey at **`TCS`**
-- 🌱 I’m currently learning **`DSA in Java`**
-- 👯 I’m looking to collaborate on **`Software Development Projects`**
+- 🌱 I’m currently learning **`Angular & Figma`**
 - 🤔 Seeking guidance for **`Career Development`**
 - 💬 Ask me about **`Tech stack`**
 - 📫 How to reach me:
