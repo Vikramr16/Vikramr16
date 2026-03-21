@@ -2,10 +2,6 @@
 
 <h4 align="center">Full Stack Engineer at <mark>Tata Consultancy Services</mark></h4>
 
-<p align="center">
-  <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
-</p>
-
 - 🔭 Kickstarting my professional journey at **`TCS`**
 - 🌱 I’m currently learning **`DSA in Java`**
 - 👯 I’m looking to collaborate on **`Software Development Projects`**
