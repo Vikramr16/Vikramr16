@@ -1,9 +1,7 @@
 <h2 align="center">Hi there 👋 It's me Vikram</h2>
 
-<h4 align="center">Project Trainee at <mark>Tata Consultancy Services</mark></h4>
-<p align="center">
-  <img src="https://www.easternts.com/wp-content/uploads/2023/02/software-development4.gif" alt="Description of the GIF" width="75%" height="75%">
-</p>
+<h4 align="center">Full Stack Engineer at <mark>Tata Consultancy Services</mark></h4>
+
 <img align="right" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" alt="developer" width="350" height="75%" style="margin-bottom: 150;">
 
 - 🔭 Kickstarting my professional journey at **`TCS`**
@@ -15,7 +13,7 @@
 
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramr16) [](https://www.linkedin.com/in/vikramr16)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.rofficial@gmail.com) [](mailto:vikram.rofficial@gmail.com)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese
+- ⚡ Fun fact: I know coding
 - ▶️ My YouTube Community:
 
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCr3kGM7DIo8cCUt9bFrODyw?style=social)
